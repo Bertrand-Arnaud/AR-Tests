@@ -1,0 +1,1 @@
+Test of the ARFoundation capabilities with the Universal Renderer Pipeline and Shader Graph.
